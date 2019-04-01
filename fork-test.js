@@ -1,0 +1,1 @@
+const forked = require('test')
