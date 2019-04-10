@@ -1,1 +1,2 @@
 tist = require('tist');
+test = 'a'
