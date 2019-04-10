@@ -1,1 +1,1 @@
-tist = require('tist')
+tist = require('tist');
