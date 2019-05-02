@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    
+    "aws-sdk": "^2.299.0",
+  },
+  "devDependencies": {
+    "@types/bluebird": "^3.5.24",
+    "@types/config": "0.0.34",
+    "typescript": "^2.9.2"
+  }
+}
